@@ -2,7 +2,7 @@
 
 # OpenLib - Library Management System using ASP.NET Web Forms 📚
 
-Welcome to OpenLib! I built this application because I was really excited about the idea of building the LMS without using ASP.NET Web-Forms framework, and so I did it!. I hope that you enjoy playing around with this application just as much as I enjoyed building it.
+Welcome to OpenLib! I built this application because I was really excited about the idea of building the LMS using the ASP.NET Web-Forms framework, and so I did it!. I hope that you enjoy playing around with this application just as much as I enjoyed building it.
 <p align="center">
 <img src="WebApplication1\gifs\project_demo\homepage.gif" style ="align: center;">
 </p>
